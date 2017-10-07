@@ -13,6 +13,9 @@ body {
         padding-top: 56px;
     }
 }
+.bg-dark {
+    background-color: #1e4f8f!important;
+}
 
 .carousel-item {
     height: 65vh;
